@@ -1,1 +1,1 @@
-Utility functions for Git
+Utility functions for Git 3
